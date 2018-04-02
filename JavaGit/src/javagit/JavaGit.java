@@ -17,6 +17,11 @@ public class JavaGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Teste");
+        System.out.println("Teste 2");
+        for(int i=0; i<10; i++)
+        {
+            System.out.println("i = " + i);
+        }
     }
     
 }
